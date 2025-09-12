@@ -8,20 +8,23 @@ image:
     alt: 'The Astro logo on a dark background with a pink glow.'
 tags: ["astro", "blogging", "learning in public"]
 ---
-# My First Blog Post
+# Assassins of Glass, by Briana Lee (ChibiTea!)
 
-Published on: 2022-07-01
+Status: Unfinished
+Expected To Be Finished By: January 1, 2026
+Publishing Type: Hopefully, not self published lol
+Current Page Count: 440 pages
+Current Word Count: 65,640 words
 
-Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I build a new website.
 
-## What I've accomplished
+### About The Book
 
-1. **Installing Astro**: First, I created a new Astro project and set up my online accounts.
+The Glass Waste had been Addwyn's home since she was a small girl. It wasn't easy living in the harsh, corrosive environment, but she was content, living in a glass hut with her mother.
 
-2. **Making Pages**: I then learned how to make pages by creating new `.astro` files and placing them in the `src/pages/` folder.
+Ophelia was an orphaned Outsider girl from Two Lakes, a village on the Edge of the Waste, eager to see the world.
 
-3. **Making Blog Posts**: This is my first blog post! I now have Astro pages and Markdown posts!
+The pair met on Trading Day and quickly became like sisters to each other.
 
-## What's next
+But when a powerful figure from Two LAkes kills Addwyn's mother and uproots her life, Addywn and OPhelia vow to take revenge. Then, they accidentally discover a hidden, dangerous plot. Something unimmaginably powerful is seeking to seize control of the Outsiders' lands. Now the two women must stop this war before it's too late.
 
-I will finish the Astro tutorial, and then keep adding more posts. Watch this space for more to come.
+Magic and secrets, betrayal and hatred; will these two young women rise above and defeat this enemy, or will they succumb to the treachery and ruin?
