@@ -25,6 +25,6 @@ Ophelia was an orphaned Outsider girl from Two Lakes, a village on the Edge of t
 
 The pair met on Trading Day and quickly became like sisters to each other.
 
-But when a powerful figure from Two LAkes kills Addwyn's mother and uproots her life, Addywn and OPhelia vow to take revenge. Then, they accidentally discover a hidden, dangerous plot. Something unimmaginably powerful is seeking to seize control of the Outsiders' lands. Now the two women must stop this war before it's too late.
+But when a powerful figure from Two Lakes kills Addwyn's mother and uproots her life, Addywn and OPhelia vow to take revenge. Then, they accidentally discover a hidden, dangerous plot. Something unimmaginably powerful is seeking to seize control of the Outsiders' lands. Now the two women must stop this war before it's too late.
 
 Magic and secrets, betrayal and hatred; will these two young women rise above and defeat this enemy, or will they succumb to the treachery and ruin?
