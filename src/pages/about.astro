@@ -21,7 +21,7 @@ const skillColor = "red";
 		<meta name="generator" content={Astro.generator} />
 		<title>{pageTitle}</title>
 
-	<style>
+	<style define:vars={{skillColor}}>
       h1 {
         color: rgb(219, 21, 64);
         font-size: 4rem;
