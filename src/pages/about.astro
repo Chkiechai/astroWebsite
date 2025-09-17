@@ -3,12 +3,12 @@ const pageTitle = "About Me";
 
 const identity = {
   firstName: "Briana",
-  country: "USA",
-  occupation: "Student",
+  country: "the USA",
+  occupation: "homeschool student",
   hobbies: ["Writing", "Drawing", "Engineering"],
 };
 
-const skills = ["HTML", "CSS", "JavaScript", "React", "Astro", "Writing", "Making Anime/Manga"];
+const skills = ["HTML", "CSS", "JavaScript", "React", "Astro", "Writing", "Making Anime/Manga", "3D Printing"];
 ---
 
 <html lang="en">
@@ -25,12 +25,11 @@ const skills = ["HTML", "CSS", "JavaScript", "React", "Astro", "Writing", "Makin
     <h1>{pageTitle}</h1>
     <h2>ChibiTea</h2>
 
-	<p>Hiiiiii! I'm ChibiTea, a highschool student with a passion for Nuclear Engineering!</p>
+	<p>Hiiiiii! I'm ChibiTea, a highschool student with a passion for Nuclear Engineering! My (actual) name is {identity.firstName}.</p>
 <ul>
-  <li>My (actual) name is {identity.firstName}.</li>
-  <li>I live in {identity.country} and I work as a {identity.occupation}.</li>
+  <li>I live in {identity.country} and I'm a {identity.occupation}.</li>
   {identity.hobbies.length >= 10 &&
-    <li>Three of my hobbies are: {identity.hobbies[0]}, {identity.hobbies[1]}, and {identity.hobbies[2]}</li>
+    <li>Three of my main hobbies are: {identity.hobbies[0]}, {identity.hobbies[1]}, and {identity.hobbies[2]}</li>
   }
 </ul>
 <p>My skills are:</p>
