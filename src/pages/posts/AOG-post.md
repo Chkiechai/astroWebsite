@@ -13,8 +13,8 @@ tags: ["astro", "blogging", "learning in public"]
 Status: Unfinished
 Expected To Be Finished By: January 1, 2026
 Publishing Type: Hopefully, not self published lol
-Current Page Count: 440 pages
-Current Word Count: 65,640 words
+Current Page Count: 510 pages
+Current Word Count: ~ 73,300 words
 
 
 ### About The Book
