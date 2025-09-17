@@ -1,4 +1,5 @@
 ---
+import '../styles/global.css';
 const pageTitle = "About Me";
 
 const identity = {
@@ -38,16 +39,15 @@ const skillColor = "red";
     <h1>{pageTitle}</h1>
     <h2>ChibiTea</h2>
 
-	<p>Hiiiiii! I'm ChibiTea, a highschool student with a passion for Nuclear Engineering! My (actual) name is {identity.firstName}.</p>
+	<p>Hiiiiii! I'm ChibiTea, a highschool student with a passion for Nuclear Engineering! My (actual) name is {identity.firstName}. I love food, cute fuzzy animals, (especially dogs, rabbits, and Japanese flying dwarf squirrels!) and settling down on the couch with a good book!</p>
 <ul>
-  <li>I live in {identity.country} and I'm a {identity.occupation}.</li>
   {identity.hobbies.length >= 10 &&
     <li>Three of my main hobbies are: {identity.hobbies[0]}, {identity.hobbies[1]}, and {identity.hobbies[2]}</li>
   }
 </ul>
 <p>My skills are:</p>
 <ul>
-  {skills.map((skill) => <li>{skill}</li>)}
+  {skills.map((skill) => <li class="skill">{skill}</li>)}
 </ul>
 Also, I almost forgot to mention I run an Etsy Shop (ChibiTeaDesigns), so feel free stop by and have a look!:D
 </p>
