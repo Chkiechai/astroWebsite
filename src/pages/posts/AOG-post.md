@@ -1,5 +1,5 @@
 ---
-title: 'Assassins of Glass; A Book'
+title: 'AOG Book'
 pubDate: 2022-07-01
 description: 'A book about betrayal, family, and a never-ending quest for vengeance.'
 author: 'Briana Lee'

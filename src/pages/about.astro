@@ -1,4 +1,6 @@
 ---
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
 import '../styles/global.css';
 const pageTitle = "About Me";
 
@@ -11,7 +13,7 @@ const identity = {
 
 const skills = ["HTML", "CSS", "JavaScript", "React", "Astro", "Writing", "Making Anime/Manga", "3D Printing"];
 
-const skillColor = "red";
+const skillColor = "navy";
 ---
 
 <html lang="en">
@@ -24,7 +26,7 @@ const skillColor = "red";
 
 	<style define:vars={{skillColor}}>
       h1 {
-        color: rgb(219, 21, 64);
+        color: rgb(160, 0, 93);
         font-size: 4rem;
       }
 	  .skill {
@@ -34,8 +36,7 @@ const skillColor = "red";
 	</style>
 	</head>
 	<body>
-<body>
-    <a href="/">Home Page</a>
+    <Header />
     <h1>{pageTitle}</h1>
     <h2>ChibiTea</h2>
 
@@ -52,5 +53,6 @@ const skillColor = "red";
 Also, I almost forgot to mention I run an Etsy Shop (ChibiTeaDesigns), so feel free stop by and have a look!:D
 </p>
 </body>
+  <Footer />
 	</body>
 </html>
