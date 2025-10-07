@@ -1,7 +1,5 @@
 ---
-import Footer from '../components/Footer.astro';
-import Header from '../components/Header.astro';
-import '../styles/global.css';
+import BaseLayout from '../layouts/BaseLayout.astro';
 const pageTitle = "About Me";
 
 const identity = {
@@ -16,31 +14,9 @@ const skills = ["HTML", "CSS", "JavaScript", "React", "Astro", "Writing", "Makin
 const skillColor = "#146112";
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>{pageTitle}</title>
-
-	<style define:vars={{skillColor}}>
-      h1 {
-        color: rgb(0, 49, 22);
-        font-size: 4rem;
-      }
-	  .skill {
-    	color: var(--skillColor);
-    	font-weight: bold;
-  }
-	</style>
-	</head>
-	<body>
-    <Header />
-    <h1>{pageTitle}</h1>
-    <h2>ChibiTea</h2>
-
-	<p>Hiiiiii! I'm ChibiTea, a highschool student with a passion for Nuclear Engineering! My (actual) name is {identity.firstName}. I love food, cute fuzzy animals, (especially dogs, rabbits, and Japanese flying dwarf squirrels!) and settling down on the couch with a good book!</p>
+<BaseLayout pageTitle={pageTitle}>
+  <h2>ChibiTea</h2>
+  <p>Hiiiiii! I'm ChibiTea, a highschool student with a passion for Nuclear Engineering! My real name is {identity.firstName}. I love food, cute fuzzy animals, (especially dogs, rabbits, and Japanese flying dwarf squirrels!) and settling down on the couch with a good book!</p>
 <ul>
   {identity.hobbies.length >= 10 &&
     <li>Three of my main hobbies are: {identity.hobbies[0]}, {identity.hobbies[1]}, and {identity.hobbies[2]}</li>
@@ -51,12 +27,15 @@ const skillColor = "#146112";
   {skills.map((skill) => <li class="skill">{skill}</li>)}
 </ul>
 Also, I almost forgot to mention I run an Etsy Shop (ChibiTeaDesigns), so feel free stop by and have a look!:D
-</p>
-</body>
-  <Footer />
+</BaseLayout>
 
-  <script>
-    import "../scripts/menu.js";
-  </script>
-	</body>
-</html>
+	<style define:vars={{skillColor}}>
+      h1 {
+        color: rgb(13, 59, 34);
+        font-size: 4rem;
+      }
+	  .skill {
+    	color: var(--skillColor);
+    	font-weight: bold;
+  }
+	</style>

@@ -1,23 +1,25 @@
 ---
-title: 'Fallicter Book'
+layout: ../../layouts/MarkdownPostLayout.astro
+title: 'The Fallicter : Book'
+schoolRelated: false
 pubDate: 2022-07-01
 description: 'A book about magic, love, betrayal, and cunning daemons'
 author: 'Briana Lee'
 image:
     url: 'https://docs.astro.build/assets/rose.webp'
     alt: 'The Astro logo on a dark background with a pink glow.'
-tags: ["astro", "blogging", "learning in public"]
+tags: ["book writing", "blogging", "hobbies", "art"]
 ---
-# The Fallicter, by Briana Lee (ChibiTea!)
+## The Fallicter, by Briana Lee (ChibiTea!)
 
 Status: Finished and Being Edited
-Expected To Be Finished By: August, 2026
-Publishing Type: Currently self published
+
 Current Page Count: 255 pages
+
 Current Word Count: ~ 50,000 words
 
 
-### About The Book
+#### About The Book
 
 Magic.
 Daemons.

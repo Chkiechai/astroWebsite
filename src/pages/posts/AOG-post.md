@@ -1,23 +1,25 @@
 ---
-title: 'AOG Book'
-pubDate: 2022-07-01
+layout: ../../layouts/MarkdownPostLayout.astro
+title: 'Assassins Of Glass : Book'
+schoolRelated: false
+pubDate: 2025-09-15
 description: 'A book about betrayal, family, and a never-ending quest for vengeance.'
 author: 'Briana Lee'
 image:
     url: 'https://docs.astro.build/assets/rose.webp'
     alt: 'The Astro logo on a dark background with a pink glow.'
-tags: ["astro", "blogging", "learning in public"]
+tags: ["book writing", "blogging", "hobbies", "art"]
 ---
-# Assassins of Glass, by Briana Lee (ChibiTea!)
+## Assassins of Glass, by Briana Lee (ChibiTea!)
 
 Status: Unfinished
-Expected To Be Finished By: January 1, 2026
-Publishing Type: Hopefully, not self published lol
+
 Current Page Count: 510 pages
+
 Current Word Count: ~ 73,300 words
 
 
-### About The Book
+#### About The Book
 
 The Glass Waste had been Addwyn's home since she was a small girl. It wasn't easy living in the harsh, corrosive environment, but she was content, living in a glass hut with her mother.
 
