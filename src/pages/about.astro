@@ -10,13 +10,11 @@ const identity = {
 };
 
 const skills = ["HTML", "CSS", "JavaScript", "React", "Astro", "Writing", "Making Anime/Manga", "3D Printing"];
-
-const skillColor = "#146112";
 ---
 
 <BaseLayout pageTitle={pageTitle}>
   <h2>ChibiTea</h2>
-  <p>Hiiiiii! I'm ChibiTea, a highschool student with a passion for Nuclear Engineering! My real name is {identity.firstName}. I love food, cute fuzzy animals, (especially dogs, rabbits, and Japanese flying dwarf squirrels!) and settling down on the couch with a good book!</p>
+  <p>Hiiiiii! I'm ChibiTea, a highschool student with a passion for Nuclear Engineering! My actual name is {identity.firstName}. I love food, cute fuzzy animals, (especially dogs, rabbits, and Japanese flying dwarf squirrels!) and settling down on the couch with a good book!</p>
 <ul>
   {identity.hobbies.length >= 10 &&
     <li>Three of my main hobbies are: {identity.hobbies[0]}, {identity.hobbies[1]}, and {identity.hobbies[2]}</li>
@@ -28,14 +26,3 @@ const skillColor = "#146112";
 </ul>
 Also, I almost forgot to mention I run an Etsy Shop (ChibiTeaDesigns), so feel free stop by and have a look!:D
 </BaseLayout>
-
-	<style define:vars={{skillColor}}>
-      h1 {
-        color: rgb(13, 59, 34);
-        font-size: 4rem;
-      }
-	  .skill {
-    	color: var(--skillColor);
-    	font-weight: bold;
-  }
-	</style>
