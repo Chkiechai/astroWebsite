@@ -1,0 +1,13 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const pageTitle = "Photo Gallery";
+const allImages = Object.values(import.meta.glob('/public/assets/GalleryImages/*.jpg', { eager: true }));
+console.log(`Got images: ${JSON.stringify(allImages)}`);
+---
+<BaseLayout pageTitle={pageTitle}>
+  <p>My School Photo Gallery! :)</p>
+  <div class="gallery">
+    {allImages.map((image:any) => {console.log(JSON.stringify(image)); return  <div class="card"><img class="gallery-thumb" src={image.default.src}/></div>})}
+    </div>
+</BaseLayout>
