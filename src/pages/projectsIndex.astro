@@ -7,7 +7,9 @@ const allPosts = Object.values(import.meta.glob('./posts/*.md', { eager: true })
 <BaseLayout pageTitle={pageTitle}>
   <h2>School Blog!</h2>
   	<p>This is where I will post my school-related projects! :)</p>
-  	{allPosts
+  	<ul>
+		{allPosts
 		  .filter((post:any)=>!post.frontmatter.schoolRelated)
 		  .map((post: any) => <li><a href={post.url}>{post.frontmatter.title}</a></li>)}
+	</ul>
 </BaseLayout>

@@ -1,6 +1,6 @@
 html {
-  background-color: #f1f5f9;
-  font-family: Arial;
+  background-color: #f3fff5;
+  font-family: sans-serif;
 }
 
 body {
@@ -36,12 +36,16 @@ h1 {
   background-color: #58bb4d;
 }
 
+a {
+  color: #004110;
+}
+
 
 .nav-links {
   width: 100%;
   top: 5rem;
   left: 48px;
-  background-color: #146111;
+  background-color: #003300;
   display: none;
   margin: 0;
 }
@@ -55,13 +59,13 @@ h1 {
   font-weight: bold;
   text-transform: uppercase;
   &:visited{
-    color:#095609;
+    color:#003300;
   }
 }
 
 .nav-links a:hover,
 .nav-links a:focus {
-  background-color: #8bbd73;
+  background-color: #6eb94a;
 }
 
 .expanded {

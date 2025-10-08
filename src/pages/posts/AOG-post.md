@@ -10,16 +10,16 @@ image:
     alt: 'The Astro logo on a dark background with a pink glow.'
 tags: ["book writing", "blogging", "hobbies", "art"]
 ---
-## Assassins of Glass, by Briana Lee (ChibiTea!)
+## Assassins of Glass
 
 Status: Unfinished
 
-Current Page Count: 510 pages
+Current Page Count: 514 pages
 
-Current Word Count: ~ 73,300 words
+Current Word Count: ~ 77,000 words
 
 
-#### About The Book
+### About The Book
 
 The Glass Waste had been Addwyn's home since she was a small girl. It wasn't easy living in the harsh, corrosive environment, but she was content, living in a glass hut with her mother.
 
@@ -27,6 +27,6 @@ Ophelia was an orphaned Outsider girl from Two Lakes, a village on the Edge of t
 
 The pair met on Trading Day and quickly became like sisters to each other.
 
-But when a powerful figure from Two Lakes kills Addwyn's mother and uproots her life, Addywn and OPhelia vow to take revenge. Then, they accidentally discover a hidden, dangerous plot. Something unimmaginably powerful is seeking to seize control of the Outsiders' lands. Now the two women must stop this war before it's too late.
+But when a powerful figure from Two Lakes kills Addwyn's mother and uproots her life, Addywn and Ophelia vow to take revenge. Then, they accidentally discover a hidden, dangerous plot. Something unimmaginably powerful is seeking to seize control of the Outsiders' lands. Now the two women must stop this war before it's too late.
 
 Magic and secrets, betrayal and hatred; will these two young women rise above and defeat this enemy, or will they succumb to the treachery and ruin?

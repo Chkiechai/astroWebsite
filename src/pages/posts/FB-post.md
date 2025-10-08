@@ -6,29 +6,36 @@ pubDate: 2022-07-01
 description: 'A book about magic, love, betrayal, and cunning daemons'
 author: 'Briana Lee'
 image:
-    url: 'https://docs.astro.build/assets/rose.webp'
-    alt: 'The Astro logo on a dark background with a pink glow.'
+    url: 'https://chibichaitea.netlify.app/public/TheFalliciter_FRONT.png'
+    alt: 'BLUE BOOK COVER WITH SHADOW WOMAN, BUTTERFLIES.'
 tags: ["book writing", "blogging", "hobbies", "art"]
 ---
-## The Fallicter, by Briana Lee (ChibiTea!)
+## The Fallicter
 
-Status: Finished and Being Edited
+Status: Finished & Awaiting Editing
 
 Current Page Count: 255 pages
 
 Current Word Count: ~ 50,000 words
 
 
-#### About The Book
+### About The Book
 
 Magic.
+
 Daemons.
-The world is not what is seems.
+
+The world is not what it seems.
+
 
 Every 50 years, a new Dulslayi is born, doomed to die.
-Aislinn Ronde is conetn with her life, working as a cashier at Starbucks and living in a nice apartment in Eeri, Pennslyvannia.
-She's always believed she has strane genes; what else could cause her to have highly accelerated healing?
 
-But it's not genetic. When a mysterious figure appears on her doorstep, Aislinn is thrown into a world of magic and secrets, where lies hide and wait, and daemons lurk. Love and betrayal, magic and death lurk around every corner. Aislinn is forced to face her desparate reality Are her friendships true, or is everyone an enemy in disguise?
+Aislinn Ronde is content with her life working as a cashier at Starbucks and living in a nice apartment in Erie, Pennsylvania.
 
-She has one onth to uncover the secrets and find a way to survive. One month to master her newfound power before it's too late.
+She's always believed she has strange genes. What else could cause her to have highly accelerated healing?
+
+But it's not genetics. When a mysterious figure appears on her doorstep, Aislinn is thrown into a world of magic and secrets, where lies hide and wait, and daemons lurk. Love and betrayal, magic and hate. Death lurks around every corner. Aislinn is forced to face her desperate reality. 
+
+Are her friendships true, or is everyone an enemy in disguise?
+
+She has one month to uncover the secrets to her magic and find a way to survive. One month to master her newfound power before it's too late.
