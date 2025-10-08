@@ -6,7 +6,7 @@ pubDate: 2022-07-01
 description: 'A book about magic, love, betrayal, and cunning daemons'
 author: 'Briana Lee'
 image:
-    url: 'https://chibichaitea.netlify.app/public/falliciter-cover.png'
+    url: 'https://chibichaitea.netlify.app/public/falliciter-cover.webp'
     alt: 'BLUE BOOK COVER WITH SHADOW WOMAN, BUTTERFLIES.'
 tags: ["book writing", "blogging", "hobbies", "art"]
 ---
