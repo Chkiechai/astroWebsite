@@ -13,6 +13,7 @@ tags: ["art", "blogging", "school"]
 ## Map Of History Throughout The World
 
 Status: Unfinished
+
 Expected To Be Finished By: Unknown
 
 

@@ -12,7 +12,7 @@ tags: ["blogging", "school"]
 ---
 ## Microscope Camera Mount
 
-Status: Unfinished (But Nearly Complete)
+Status: Finished
 
 
 #### About

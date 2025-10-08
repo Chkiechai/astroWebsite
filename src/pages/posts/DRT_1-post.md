@@ -2,6 +2,7 @@
 layout: ../../layouts/BookSaleLayout.astro
 title: 'Endless Soul : Book'
 schoolRelated: false
+Book: true
 pubDate: 2022-07-01
 description: 'A book about friendships, magic, and the drive to win'
 author: 'Briana Lee'
