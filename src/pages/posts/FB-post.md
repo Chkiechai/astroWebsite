@@ -1,12 +1,12 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
+layout: ../../layouts/BookSaleLayout.astro
 title: 'The Fallicter : Book'
 schoolRelated: false
 pubDate: 2022-07-01
 description: 'A book about magic, love, betrayal, and cunning daemons'
 author: 'Briana Lee'
 image:
-    url: 'https://chibichaitea.netlify.app/src/images/falliciter-cover.webp'
+    url: '/assets/falliciter-cover.webp'
     alt: 'BLUE BOOK COVER WITH SHADOW WOMAN, BUTTERFLIES & MIST'
 tags: ["book writing", "blogging", "hobbies", "art"]
 ---

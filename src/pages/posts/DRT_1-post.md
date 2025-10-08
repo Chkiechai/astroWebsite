@@ -1,13 +1,13 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
+layout: ../../layouts/BookSaleLayout.astro
 title: 'Endless Soul : Book'
 schoolRelated: false
 pubDate: 2022-07-01
 description: 'A book about friendships, magic, and the drive to win'
 author: 'Briana Lee'
 image:
-    url: 'https://docs.astro.build/assets/rose.webp'
-    alt: 'The Astro logo on a dark background with a pink glow.'
+    url: '/assets/endlesssoul-cover.webp'
+    alt: 'Girl in front of burning house with magic'
 tags: ["book writing", "blogging", "hobbies", "art"]
 ---
 ## Endless Soul

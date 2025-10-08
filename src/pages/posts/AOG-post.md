@@ -1,13 +1,13 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
+layout: ../../layouts/BookSaleLayout.astro
 title: 'Assassins Of Glass : Book'
 schoolRelated: false
 pubDate: 2025-09-15
 description: 'A book about betrayal, family, and a never-ending quest for vengeance.'
 author: 'Briana Lee'
 image:
-    url: 'https://docs.astro.build/assets/rose.webp'
-    alt: 'The Astro logo on a dark background with a pink glow.'
+    url: '/assets/aog-cover.webp'
+    alt: 'Green glass sickle and spike crossed'
 tags: ["book writing", "blogging", "hobbies", "art"]
 ---
 ## Assassins of Glass

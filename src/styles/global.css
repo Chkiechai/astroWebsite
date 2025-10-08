@@ -90,8 +90,17 @@ a {
     display: none;
   }
 
-}
+  img.showcase {
+    float:left;
+    margin-right: 1rem;
+  }
 
+}
+@media screen and (max-width: 635px) {
+  img.showcase{
+    width:100%;
+  }
+}
  /* DARK MODE*/
 
 html.dark {
@@ -116,3 +125,4 @@ html.dark {
 .dark a {
   color: #76ff98;
 }
+
