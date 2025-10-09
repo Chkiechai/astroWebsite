@@ -152,4 +152,7 @@ html.dark {
 
 .dark a {
   color: #76ff98;
+  &.tag{
+    color: #003f10;
+  }
 }
