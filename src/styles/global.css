@@ -132,7 +132,7 @@ a {
  /* DARK MODE*/
 
 html.dark {
-  background-color: #02331b;
+  background-color: #192713;
   color: #fff;
 }
 
@@ -152,8 +152,4 @@ html.dark {
 
 .dark a {
   color: #76ff98;
-}
-
-.dark tag {
-  color: #0c5e20;
 }
