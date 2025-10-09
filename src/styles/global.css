@@ -169,6 +169,9 @@ html.dark {
   flex-wrap: wrap;
 
   a.tag {
+    &:hover{
+      background-color: #f3fff5;
+    }
     margin: 0.25em;
     border: dotted 1px #242e24;
     border-radius: .5em;
