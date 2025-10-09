@@ -12,7 +12,7 @@ image:
 tags: ["book writing", "blogging", "hobbies", "art"]
 ---
 ## The Death of Us All
-Status: Completed & Awaiting Editing
+Status: Unfinished
 
 Current Page Count: ~93 pages
 
