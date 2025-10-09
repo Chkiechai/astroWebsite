@@ -58,8 +58,9 @@ a {
   font-size: 1.2rem;
   font-weight: bold;
   text-transform: uppercase;
-  &:visited{
-    color:#003300;
+
+  &:visited {
+    color: #003300;
   }
 }
 
@@ -74,25 +75,28 @@ a {
 
 .gallery {
   * {
-    box-sizing:border-box;
+    box-sizing: border-box;
   }
+
   display:flex;
   flex-direction:row;
   flex-wrap:wrap;
   align-content:baseline;
   justify-content:space-evenly;
   gap: 2rem;
+
   div.card {
-    background-color:#000000;
+    background-color: #000000;
     border: 2px solid #76ff98;
     border-radius: 4px;
     padding: 6px;
     aspect-ratio: 1 / 1;
-    width:400px;
+    width: 400px;
     height: 400px;
-    display:flex;
-    align-content:center;
-    justify-content:center;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+
     img {
       max-height: 100%;
       max-width: 100%;
@@ -100,6 +104,7 @@ a {
     }
   }
 }
+
 @media screen and (min-width: 636px) {
   .nav-links {
     margin-left: 5em;
@@ -119,17 +124,19 @@ a {
   }
 
   img.showcase {
-    float:left;
+    float: left;
     margin-right: 1rem;
   }
 
 }
+
 @media screen and (max-width: 635px) {
-  img.showcase{
-    width:100%;
+  img.showcase {
+    width: 100%;
   }
 }
- /* DARK MODE*/
+
+/* DARK MODE*/
 
 html.dark {
   background-color: #192713;
@@ -152,7 +159,23 @@ html.dark {
 
 .dark a {
   color: #76ff98;
-  &.tag{
-    color: #003f10;
+}
+
+/*TAGS*/
+
+
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+
+  a.tag {
+    margin: 0.25em;
+    border: dotted 1px #242e24;
+    border-radius: .5em;
+    padding: .5em 1em;
+    font-size: 1.15em;
+    background-color: #9ed3a4;
+
+    color: #003a0e;
   }
 }
