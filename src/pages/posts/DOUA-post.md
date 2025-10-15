@@ -14,9 +14,9 @@ tags: ["book writing", "blogging", "hobbies", "art"]
 ## The Death of Us All
 Status: Unfinished
 
-Current Page Count: ~93 pages
+Current Page Count: ~176 pages
 
-Current Word Count: ~ 13,600 words
+Current Word Count: ~ 26,807 words
 
 
 ### About The Book
