@@ -13,8 +13,9 @@ const skills = ["HTML", "CSS", "JavaScript", "React", "Astro", "Writing", "Makin
 ---
 
 <BaseLayout pageTitle={pageTitle}>
-  <h2>ChibiTea</h2>
-  <p>Hiiiiii! I'm ChibiTea, a highschool student with a passion for Nuclear Engineering! My actual name is {identity.firstName}. I love food, cute fuzzy animals, (especially dogs, rabbits, and Japanese flying dwarf squirrels!) and settling down on the couch with a good book!</p>
+  <img src="/assets/NewChaiAvatarICON.png" alt="A picture of my avatar" class="about-me-image"></img>
+  <h2 class = "AboutMeHeader">ChibiTea :)</h2>
+  <p>Hiiiiii! I'm Briana (ChibiTea), a highschool student with a passion for Nuclear Engineering and all things related to science! I love food, cute fuzzy animals, (especially dogs, rabbits, and Japanese flying dwarf squirrels!) and settling down on the couch with a good book!</p>
 <ul>
   {identity.hobbies.length >= 10 &&
     <li>Three of my main hobbies are: {identity.hobbies[0]}, {identity.hobbies[1]}, and {identity.hobbies[2]}</li>
@@ -24,5 +25,25 @@ const skills = ["HTML", "CSS", "JavaScript", "React", "Astro", "Writing", "Makin
 <ul>
   {skills.map((skill) => <li class="skill">{skill}</li>)}
 </ul>
-Also, I almost forgot to mention I run an Etsy Shop (ChibiTeaDesigns), so feel free stop by and have a look!:D
+Also, I run an Etsy Shop (ChibiTeaDesigns), so feel free stop by and have a look! :D
 </BaseLayout>
+
+<style>
+  .about-me-image {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: block;
+    alighn-items: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .skill {
+    font-weight: bold;
+    color: #3f83d1;
+  }
+  .AboutMeHeader {
+    text-align: center;
+  }
+</style>
