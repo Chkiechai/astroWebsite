@@ -3,7 +3,7 @@ layout: ../../layouts/BookSaleLayout.astro
 title: 'The Death of Us All : Book'
 schoolRelated: false
 Book: true
-pubDate: 2022-07-01
+pubDate: 2025-10-06
 description: 'A book about disaster, disease, and the power of human empathy'
 author: 'Briana Lee'
 image:
@@ -14,6 +14,8 @@ tags: ["book writing", "blogging", "hobbies", "art"]
 ## The Death of Us All
 Status: Finished & Undergoing Edits
 
+Type: Novella
+
 Current Page Count: 217 pages
 
 Current Word Count: 31,937 words
@@ -23,7 +25,7 @@ Current Word Count: 31,937 words
 
 In a world where radiation dominates, how is survival possible?
 
-Life is fairly normal for best friends Aubrey and Carlisle. Aubrey is fairly happy in her job as a Nuclear Medicine Technologist. Carlisle saves lives in one of Main's Chemo therapy clinics.
+Life is fairly normal for best friends Aubrey and Carlisle. Aubrey is fairly happy in her job as a Nuclear Medicine Technologist. Carlisle saves lives in one of Main's chemotherapy clinics.
 
 But good times never last long. When nuclear war comes, there's no warning for the general public. In only a few short hours, millions die. Aubrey and Carlisle are thrown into a world where radiation dominates, and nuclear winter beckons ominously. It's a world that is unforgiving and deadly, the toxins in the air lurking in invisibility.
 

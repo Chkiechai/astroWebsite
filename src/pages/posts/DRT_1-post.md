@@ -15,6 +15,8 @@ tags: ["book writing", "blogging", "hobbies", "art"]
 #### Book 1 of The Dream Root Trilogy
 Status: Completed & Awaiting Editing
 
+Type: Novella
+
 Current Page Count: 223 pages
 
 Current Word Count: ~ 39,000 words

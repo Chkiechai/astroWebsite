@@ -15,6 +15,8 @@ tags: ["book writing", "blogging", "hobbies", "art"]
 
 Status: Finished & Awaiting Editing
 
+Type: Short Length Novel
+
 Current Page Count: 255 pages
 
 Current Word Count: ~ 50,000 words

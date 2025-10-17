@@ -15,6 +15,8 @@ tags: ["book writing", "blogging", "hobbies", "art"]
 #### Book 2 of The Dream Root Trilogy
 Status: Unfinished
 
+Type: Novella
+
 Current Page Count: 27 pages
 
 Current Word Count: ~ 4,200 words

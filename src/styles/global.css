@@ -135,12 +135,22 @@ a {
     margin-right: 1rem;
   }
 
+  img.blog-showcase {
+    float: center;
+    margin: 1rem;
+  }
+
 }
 
 @media screen and (max-width: 635px) {
   img.showcase {
     width: 100%;
   }
+
+  img.blog-showcase {
+    width: 100%;
+  }
+
 }
 
 /* DARK MODE*/

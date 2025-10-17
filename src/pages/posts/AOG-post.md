@@ -15,6 +15,8 @@ tags: ["book writing", "blogging", "hobbies", "art"]
 
 Status: Unfinished
 
+Type: Novel
+
 Current Page Count: 514 pages
 
 Current Word Count: ~ 77,000 words
