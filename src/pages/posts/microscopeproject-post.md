@@ -38,7 +38,7 @@ Then, I imported the camera model into my assembly and positioned it using faste
 
 *The Mount From The Side (Above)*
 
-![Mount From The Top](/public/assets/MountTOP.png)
+![Mount From The Top](/assets/MountTOP.png)
 
 *The Mount From The Top (Above)*
 
