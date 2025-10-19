@@ -25,7 +25,7 @@ I had a very simple idea for how to accomplish this; design a cylinder in Onshap
 
 The first step was to measure the components I would be using, so I strapped a grounded band to my wrist and set about making a simple model of the PICam. I measured its dimensions, width, height, and length, as well as the screws and placement of the camera and the other components. This was somewhat difficult, as the camera lens wasn't centered on the board and the screws were in odd positions. 
 
-![RPICamGUI Camera](./public/assets/PICAM.png)
+![RPICamGUI Camera](/assets/PICAM.png)
 *The Simple Camera Model*
 
 After I finished modeling the camera, I moved on to making the cylinder that would fit around the microscope eyepiece. For this, I didn't need to use the grounded wristband, so I was able to move unrestricted. I measured the exterior of the eyepiece and made that the interior size of my cylinder, then sketched another circle around the interior, spaced a few hundredths of an inch away from the interior, so that when I extruded the gap between the circles the resulting cylinder would be strong.
@@ -34,11 +34,11 @@ I extruded the cylinder to make it taller, then made a top piece that was inset 
 
 Then, I imported the camera model into my assembly and positioned it using fastened mates, making sure to center the camera lens. After that was finished, I measured the dimensions and extruded the top of the cylinder down until the camera would fit snugly into the slot. I also made a small rim around the camera for extra security.
 
-![Mount From The Side](./public/assets/MountSIDE.png)
+![Mount From The Side](/assets/MountSIDE.png)
 
 *The Mount From The Side (Above)*
 
-![Mount From The Top](./public/assets/MountTOP.png)
+![Mount From The Top](/public/assets/MountTOP.png)
 
 *The Mount From The Top (Above)*
 
