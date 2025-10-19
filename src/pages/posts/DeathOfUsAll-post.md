@@ -13,7 +13,7 @@ tags: ["book writing", "blogging", "hobbies", "art"]
 ---
 ### It All Starts With Learning Something New
 
-On October 6th, 2025, I learned about Chernobyl, one of the worst nuclear reactor meltdowns in history. There were so many people were injured or killed, and hundreds of miles were polluted with radiation. Worst of all, no one was prepared, and word of the dangers of radiation was withheld from the public.
+On October 6th, 2025, I learned about Chernobyl, one of the worst nuclear reactor meltdowns in history. There were so many people were injured or killed, and hundreds of miles of land was polluted with radiation. Worst of all, no one was prepared, and word of the dangers of radiation was withheld from the public.
 
 I became fascinated with learning as much as I could about Chernobyl and the effects of different levels of radiation on the human body. I researched facts about radiation for hours, until my browser had almost forty tabs open. I'm pretty sure I talked my family's ears off, I was so excited to tell them what I'd learned; everything from alpha, beta, and gamma particles to Acute Radiation Syndrome. I already knew lots of the facts I found online, since I'd taken a Nuclear Science merit badge in Scouting; and had bought several nuclear physics and technology books. But I also learned tons of new things, and it excited me.
 
