@@ -1,5 +1,5 @@
 html {
-  background-color: #f3fff5;
+  background-color: #ffffff;
   font-family: sans-serif;
 }
 
@@ -40,11 +40,11 @@ h1 {
   width: 40px;
   height: 5px;
   margin-bottom: 10px;
-  background-color: #58bb4d;
+  background-color: #970065;
 }
 
 a {
-  color: #004110;
+  color: #5c0040;
 }
 
 
@@ -52,7 +52,7 @@ a {
   width: 100%;
   top: 5rem;
   left: 48px;
-  background-color: #003300;
+  background-color: #330024;
   display: none;
   margin: 0;
 }
@@ -67,13 +67,13 @@ a {
   text-transform: uppercase;
 
   &:visited {
-    color: #003300;
+    color: #330024;
   }
 }
 
 .nav-links a:hover,
 .nav-links a:focus {
-  background-color: #6eb94a;
+  background-color: #b94a94;
 }
 
 .expanded {
@@ -94,7 +94,7 @@ a {
 
   div.card {
     background-color: #000000;
-    border: 2px solid #76ff98;
+    border: 2px solid #ff7694;
     border-radius: 4px;
     padding: 6px;
     aspect-ratio: 1 / 1;
@@ -156,7 +156,7 @@ a {
 /* DARK MODE*/
 
 html.dark {
-  background-color: #192713;
+  background-color: #271317;
   color: #fff;
 }
 
@@ -167,7 +167,7 @@ html.dark {
 
 .dark .nav-links a:hover,
 .dark .nav-links a:focus {
-  color: #043d09;
+  color: #3d042c;
 }
 
 .dark .nav-links a {
@@ -175,7 +175,7 @@ html.dark {
 }
 
 .dark a {
-  color: #76ff98;
+  color: #ff7688;
 }
 
 /*TAGS*/
@@ -188,14 +188,14 @@ html.dark {
   a.tag {
 
     margin: 0.25em;
-    border: dotted 1px #242e24;
+    border: dotted 1px #2e242a;
     border-radius: .5em;
     padding: .5em 1em;
     font-size: 1.15em;
-    background-color: #9ed3a4;
+    background-color: #d39eb8;
     text-decoration: none;
     font-weight: bold;
-    color: #003a0e;
+    color: #3a0020;
   }
 
   a.tag:hover {
