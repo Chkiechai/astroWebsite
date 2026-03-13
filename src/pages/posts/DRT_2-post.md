@@ -3,6 +3,10 @@ layout: ../../layouts/BookSaleLayout.astro
 title: 'Raging Soul : Book'
 schoolRelated: false
 Book: true
+Food: false
+BookPost : false
+Study : false
+Aesthetics : false
 pubDate: 2022-07-01
 description: 'The second book in trilogy about friendships, magic, and the drive to win at all costs'
 author: 'Briana Lee'

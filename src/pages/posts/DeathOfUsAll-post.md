@@ -3,6 +3,10 @@ layout: ../../layouts/BlogLayout.astro
 title: 'The Death of Us All: The Inspiration Behind It'
 schoolRelated: false
 Book: false
+Food: false
+BookPost : true
+Study : false
+Aesthetics : false
 pubDate: 2025-10-17
 description: 'The tireless hours put into this book, and why I started writing it in the first place.'
 author: 'Briana Lee'

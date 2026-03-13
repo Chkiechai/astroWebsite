@@ -1,6 +1,6 @@
 html {
   background-color: #ffffff;
-  font-family: sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 body {
@@ -22,6 +22,12 @@ h1 {
 
 .title {
   text-align: center;
+  font-family: Purisa, cursive;
+}
+
+.blogHeader {
+  text-align: left;
+  font-family: Purisa, cursive;
 }
 
 .blog-text{
@@ -40,11 +46,11 @@ h1 {
   width: 40px;
   height: 5px;
   margin-bottom: 10px;
-  background-color: #970065;
+  background-color: #4d3325;
 }
 
 a {
-  color: #5c0040;
+  color: #984d82;
 }
 
 
@@ -52,7 +58,7 @@ a {
   width: 100%;
   top: 5rem;
   left: 48px;
-  background-color: #330024;
+  background-color: #292321;
   display: none;
   margin: 0;
 }
@@ -67,13 +73,13 @@ a {
   text-transform: uppercase;
 
   &:visited {
-    color: #330024;
+    color: #301328;
   }
 }
 
 .nav-links a:hover,
 .nav-links a:focus {
-  background-color: #b94a94;
+  background-color: #625143;
 }
 
 .expanded {
@@ -94,7 +100,7 @@ a {
 
   div.card {
     background-color: #000000;
-    border: 2px solid #ff7694;
+    border: 2px solid #c69d7f;
     border-radius: 4px;
     padding: 6px;
     aspect-ratio: 1 / 1;
@@ -156,7 +162,7 @@ a {
 /* DARK MODE*/
 
 html.dark {
-  background-color: #271317;
+  background-color: #473327;
   color: #fff;
 }
 
@@ -167,7 +173,7 @@ html.dark {
 
 .dark .nav-links a:hover,
 .dark .nav-links a:focus {
-  color: #3d042c;
+  color: #3d2004;
 }
 
 .dark .nav-links a {
@@ -175,7 +181,15 @@ html.dark {
 }
 
 .dark a {
-  color: #ff7688;
+  color: #ffe4d2;
+}
+
+.dark .hamburger .line {
+  display: block;
+  width: 40px;
+  height: 5px;
+  margin-bottom: 10px;
+  background-color: #e0956d;
 }
 
 /*TAGS*/
@@ -192,13 +206,13 @@ html.dark {
     border-radius: .5em;
     padding: .5em 1em;
     font-size: 1.15em;
-    background-color: #d39eb8;
+    background-color: #d3b09e;
     text-decoration: none;
     font-weight: bold;
-    color: #3a0020;
+    color: #3a1200;
   }
 
   a.tag:hover {
-    background-color: #f3fff5;
+    background-color: #fffaf3;
   }
 }

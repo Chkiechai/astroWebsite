@@ -3,15 +3,36 @@ import { addIssueToContext } from 'astro:schema';
 import BlogPost from "../components/BlogPost.astro";
 import BaseLayout from '../layouts/BaseLayout.astro';
 const allPosts = Object.values(import.meta.glob('./posts/*.md', { eager: true }));
-const pageTitle = "My Blog";
+const pageTitle = "Blog";
 ---
 
 <BaseLayout pageTitle={pageTitle}>
-	<h2>Non-School Blog!</h2>
-  		<p>This is where I will post my tutorials and blog articles that aren't related to school! :)</p>
+<h2 class="blogHeader">Book Articles</h2>
   		<ul>	
 		  {allPosts
-		  .filter((post:any)=>!post.frontmatter.schoolRelated && !post.frontmatter.Book)
+		  .filter((post:any)=> post.frontmatter.BookPost)
 		  .map((post: any) => <BlogPost url={post.url} title={post.frontmatter.title} />)}
 		</ul>
+
+<h2 class="blogHeader">Studying</h2>
+  		<ul>	
+		  {allPosts
+		  .filter((post:any)=>post.frontmatter.Study)
+		  .map((post: any) => <BlogPost url={post.url} title={post.frontmatter.title} />)}
+		</ul>
+
+<h2 class="blogHeader">Food</h2>
+  		<ul>	
+		  {allPosts
+		  .filter((post:any)=>post.frontmatter.Food)
+		  .map((post: any) => <BlogPost url={post.url} title={post.frontmatter.title} />)}
+		</ul>
+
+<h2 class="blogHeader">Aesthetics</h2>
+  		<ul>	
+		  {allPosts
+		  .filter((post:any)=>post.frontmatter.Aesthetics)
+		  .map((post: any) => <BlogPost url={post.url} title={post.frontmatter.title} />)}
+		</ul>
+		
 </BaseLayout>

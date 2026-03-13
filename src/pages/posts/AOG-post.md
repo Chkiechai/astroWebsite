@@ -3,6 +3,10 @@ layout: ../../layouts/BookSaleLayout.astro
 title: 'Assassins Of Glass : Book'
 schoolRelated: false
 Book: true
+Food: false
+BookPost : false
+Study : false
+Aesthetics : false
 pubDate: 2025-09-15
 description: 'A book about betrayal, family, and a never-ending quest for vengeance.'
 author: 'Briana Lee'
