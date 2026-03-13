@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/BookSaleLayout.astro
-title: 'The Fallicter : Book'
+title: 'The Fallicter'
 schoolRelated: false
 Book: true
 Food: false

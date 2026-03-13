@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/BookSaleLayout.astro
-title: 'Raging Soul : Book'
+title: 'Raging Soul'
 schoolRelated: false
 Book: true
 Food: false

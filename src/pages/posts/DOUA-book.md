@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/BookSaleLayout.astro
-title: 'The Death of Us All : Book'
+title: 'The Death of Us All'
 schoolRelated: false
 Book: true
 Food: false

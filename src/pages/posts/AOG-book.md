@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/BookSaleLayout.astro
-title: 'Assassins Of Glass : Book'
+title: 'Assassins Of Glass'
 schoolRelated: false
 Book: true
 Food: false

@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/BookSaleLayout.astro
-title: 'Endless Soul : Book'
+title: 'Endless Soul'
 schoolRelated: false
 Book: true
 Food: false

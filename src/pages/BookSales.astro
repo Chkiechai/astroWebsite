@@ -7,8 +7,7 @@ const pageTitle = "Books";
 ---
 
 <BaseLayout pageTitle={pageTitle}>
-	<h2>Non-School Blog!</h2>
-  		<p>This is where I will put all my books so you can buy them! :)</p>
+  	<p>Below are some of my books, both published and in the works.</p>
   		<ul>	
 		  {allPosts
 		  .filter((post:any)=>!post.frontmatter.schoolRelated && post.frontmatter.Book)
