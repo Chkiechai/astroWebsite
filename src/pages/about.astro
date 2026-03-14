@@ -6,26 +6,31 @@ const identity = {
   firstName: "Briana",
   country: "the USA",
   occupation: "homeschool student",
-  hobbies: ["Writing", "Drawing", "Engineering"],
+  hobbies: ["Writing", "Drawing", "Engineering", "Cooking"],
 };
 
-const skills = ["HTML", "CSS", "JavaScript", "React", "Astro", "Writing", "Making Anime/Manga", "3D Printing"];
+const skills = ["Writing", "3D Design", "Video Editing", "Graphic Design", "Time Management", "Organization"];
 ---
 
 <BaseLayout pageTitle={pageTitle}>
   <img src="/assets/OwnerIcon.png" alt="A picture of my avatar" class="about-me-image"></img>
   <h2 class = "AboutMeHeader">ChibiTea :)</h2>
-  <p>Hiiiiii! I'm Briana (ChibiTea), a highschool student with a passion for Nuclear Engineering and all things related to science! I love food, cute fuzzy animals, (especially dogs, rabbits, and Japanese flying dwarf squirrels!) and settling down on the couch with a good book!</p>
+  <p>Hiii! I'm Briana, a highschool student with a passion for Nuclear Engineering and all things related to S.T.E.M.
+    I love creating cute things, organizing, and striving to be the best I can be and encouraging others to do the same!
+  </p>
 <ul>
   {identity.hobbies.length >= 10 &&
-    <li>Three of my main hobbies are: {identity.hobbies[0]}, {identity.hobbies[1]}, and {identity.hobbies[2]}</li>
+    <li>My main hobbies are {identity.hobbies[0]}, {identity.hobbies[1]}, {identity.hobbies[2]}, and {identity.hobbies[3]}</li>
   }
 </ul>
-<p>My skills are:</p>
+<p>Some of my skills include:</p>
 <ul>
   {skills.map((skill) => <li class="skill">{skill}</li>)}
 </ul>
-Also, I run an Etsy Shop (ChibiTeaDesigns), so feel free stop by and have a look! :D
+ <p>Sometimes, I take commissions that include my skills, so if you're interested, feel free to reach out to me! I'm always looking for new opportunities 
+ to learn and grow, and I hope to connect with others who share my interests and passions. </p>
+
+ <p>You can contact me via email: briana.r.lee.09@gmail.com</p>
 </BaseLayout>
 
 <style>
@@ -34,7 +39,7 @@ Also, I run an Etsy Shop (ChibiTeaDesigns), so feel free stop by and have a look
     height: 200px;
     border-radius: 50%;
     display: block;
-    alighn-items: center;
+    align-items: center;
     margin-left: auto;
     margin-right: auto;
   }
