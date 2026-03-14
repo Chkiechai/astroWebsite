@@ -52,9 +52,9 @@ Now, I know my particular schedule is not for everyone. But as a homeschooled st
 
 Also, when I say *study*, I don't mean sitting in a dark room, eyes burning with exhaustion, brain sluggish and mood crashing as I slowly realize I didn't do last week's homework. I mean *movie-style* studying. The kind of studying where you're sitting in your room, or a cafe, or even the library, listening to music, sipping coffee (or tea). The kind of work that lets you take nice notes, take breaks, and really *learn*. 
 
-**Romanticize it. Pretend you're a mysterious, overachieving character in a movie.**
-
 It's not too hard, really. It might take a few weeks, but if you keep up with a schedule like this, soon, you might be so ahead in school, you might not even have to *do* homework some days!
+
+**Romanticize it. Pretend you're a mysterious, overachieving character in a movie.**
 
 So wake up a little earlier. Make your bed, and get dressed. Get a bit of food, and a coffee or tea, and study as much as you can before school. Eventually, it will be a habit. I've found that I look forward to my mornings of study, because it's peaceful and quiet, and I can watch the sun rise as I work. You might begin to look forward to morning homework sessions too! Maybe.
 
