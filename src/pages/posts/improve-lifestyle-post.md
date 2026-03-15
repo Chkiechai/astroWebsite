@@ -11,8 +11,8 @@ pubDate: 2026-03-15
 description: 'Hey, college and highschool people!! Looking at you!'
 author: 'Briana Lee'
 image:
-    url: '/assets/StudyingGirl_Bed_Autumn.webp'
-    alt: 'Anime Girl Laying on bed, reading a book, autumn scene'
+    url: '/assets/lifestyle-img.webp'
+    alt: 'Sunrise over a simplistic ocean'
 tags: ["studying", "blogging", "aesthetics", "lifestyle"]
 ---
 
