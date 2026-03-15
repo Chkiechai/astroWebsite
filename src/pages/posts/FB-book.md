@@ -6,7 +6,7 @@ Book: true
 Food: false
 BookPost : false
 Study : false
-Aesthetics : false
+Lifestyle : false
 pubDate: 2022-07-01
 description: 'A book about magic, love, betrayal, and cunning daemons'
 author: 'Briana Lee'

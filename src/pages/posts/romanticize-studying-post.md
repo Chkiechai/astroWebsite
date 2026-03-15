@@ -6,14 +6,14 @@ Book: false
 Food: false
 BookPost : false
 Study : true
-Aesthetics : false
+Lifestyle : false
 pubDate: 2026-03-13
 description: 'Ever find yourself struggling to find the motivation to study? Me too!'
 author: 'Briana Lee'
 image:
     url: '/assets/StudyingGirl_Bed_Autumn.webp'
     alt: 'Anime Girl Laying on bed, reading a book, autumn scene'
-tags: ["studying", "blogging", "school", "aesthetics"]
+tags: ["studying", "blogging", "school", "aesthetics","lifestyle"]
 ---
 
 # Introduction
@@ -64,7 +64,7 @@ Now, I shall continue my rant on how to romanticize homework.
 
 ## How To Be Romantic
 
-Imagine this: You're sitting at your desk, the lamp shining cheerily onto the books laying before you. You're listening to soft music, pen and highlighter in hand as you methodically take notes. You can smell the pages of the book, hear the click of the pen as you write, and the hum of your computer as it works in the background. It's early morning, or perhaps late at night. Your back is bathed in gentle sunlight as you work, and as your song grows in cadence, you glance out the window and know, deep in your heart, that each day is a promise to yourself. A promise to improve.
+Imagine this: You're sitting at your desk, the lamp shining cheerily onto the books laying before you. You're listening to soft music, pen and highlighter in hand as you methodically take notes. You can smell the pages of the book, hear the click of the pen as you write, and the hum of your computer as it works in the background. It's early morning, or perhaps late at night. Your back is bathed in gentle sunlight as you work, and as your song grows in cadence, you glance out the window and smile contentedly.
 
 Doesn't sound too bad, does it? Calm mornings, or calm evenings, working quietly.
 

@@ -6,7 +6,7 @@ Book: true
 Food: false
 BookPost : false
 Study : false
-Aesthetics : false
+Lifestyle : false
 pubDate: 2025-09-15
 description: 'A book about betrayal, family, and a never-ending quest for vengeance.'
 author: 'Briana Lee'

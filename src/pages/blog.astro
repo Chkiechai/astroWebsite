@@ -31,7 +31,7 @@ const pageTitle = "Blog";
 <h2 class="blogHeader">Lifestyle</h2>
   		<ul>	
 		  {allPosts
-		  .filter((post:any)=>post.frontmatter.Aesthetics)
+		  .filter((post:any)=>post.frontmatter.Lifestyle)
 		  .map((post: any) => <BlogPost url={post.url} title={post.frontmatter.title} />)}
 		</ul>
 		
