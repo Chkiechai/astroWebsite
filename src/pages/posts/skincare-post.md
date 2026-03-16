@@ -57,7 +57,7 @@ This is where most of my skincare routine comes in, because it's the time when I
 2. *Moisturizer*:
    - I use a simple, cheap lotion made for sensitive skin, and I only use a small amount of it--enough to cover my face but not enough to feel thick and greasy
 
-And that's it! If I am in the middle of a breakout, I might use a pimple patch or two (put those on before lotion), but other than that, I don't do much fancy stuff. With that done, let's move on to the products that I have and use.
+And that's it! If I am in the middle of a breakout, I might use a pimple patch or two (put those on before lotion), but other than that, I don't do much fancy stuff. With that done, let's move on to the products that I have acd use.
 
 # Products
 
