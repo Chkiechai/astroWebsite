@@ -17,23 +17,22 @@ tags: ["book writing", "blogging", "hobbies", "art"]
 ---
 ## Assassins of Glass
 
-Status: Unfinished
+Status: Finished & Undergoing Editing
 
-Type: Novel
+Type: Epic Novel
 
-Current Page Count: 514 pages
+Current Page Count: 512 pages
 
-Current Word Count: ~ 77,000 words
+Current Word Count: ~ 102,000
 
+Expected Release: Aug-Nov 2026
 
 ### About The Book
 
-The Glass Waste had been Addwyn's home since she was a small girl. It wasn't easy living in the harsh, corrosive environment, but she was content, living in a glass hut with her mother.
+There was never any hope for harmony between the Outsiders of the Mainland and the Dwellers of the corrosive Glass Waste--until Addwyn and Ophelia.
 
-Ophelia was an orphaned Outsider girl from Two Lakes, a village on the Edge of the Waste, eager to see the world.
+Addwyn is a Dweller raised by an idealistic mother to believe that unity between the two nations was possible. Ophelia, an Outsider girl raised by her conniving aunt, arrives in the Waste determined to make friends. Ever hopeful, Ophelia seeks out Addwyn, and the two children quickly become like sisters.
 
-The pair met on Trading Day and quickly became like sisters to each other.
+When a figure from the Outsider lands orders the death of Addwyn's mother, *everything* changes. Addwyn vows revenge, and Ophelia refuses to let her brave that darkness alone. Their pursuit of vengeance reveals a much darker conspiracy--one that threatens both nations. Beyond the Waste, a being of immense power is plotting to seize the Outsider lands.
 
-But when a powerful figure from Two Lakes kills Addwyn's mother and uproots her life, Addywn and Ophelia vow to take revenge. Then, they accidentally discover a hidden, dangerous plot. Something unimmaginably powerful is seeking to seize control of the Outsiders' lands. Now the two women must stop this war before it's too late.
-
-Magic and secrets, betrayal and hatred; will these two young women rise above and defeat this enemy, or will they succumb to the treachery and ruin?
+The pair must fight for their homelands. But as the peril around them grows, they realize that victory might cost them their sanity--and the bond that holds them together.
