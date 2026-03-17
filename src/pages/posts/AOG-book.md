@@ -15,7 +15,7 @@ image:
     alt: 'Green glass sickle and spike crossed'
 tags: ["book writing", "blogging", "hobbies", "art"]
 ---
-## Assassins of Glass
+## Book 1 of the Ashflower Duology
 
 Status: Finished & Undergoing Editing
 
