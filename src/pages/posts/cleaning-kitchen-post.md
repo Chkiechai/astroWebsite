@@ -136,12 +136,13 @@ And we're done! You've now deep cleaned your entire kitchen!
 
 There you are! An easy, step-by-step process for cleaning your kitchen. Once I've deep cleaned my kitchen, I know I don't want it to get really bad again, so I try to stick to a schedule kind of like this:
 
-Mon-Fri:
+**Mon-Fri**:
 1. Wash dishes
 2. Dust
 3. Sweep
 4. Wipe down surfaces (counters, walls, stove top)
-Sat:
+
+**Sat**:
 1. Do all weekday stuff
 2. Mop
 3. Clean interior of oven (And clean glass too, if I feel like it)
