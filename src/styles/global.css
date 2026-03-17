@@ -41,6 +41,11 @@ h1 {
   font-family: Purisa, cursive;
 }
 
+.lower-title {
+  text-align: center;
+  font-family: Purisa;
+}
+
 .blogHeader {
   text-align: left;
   font-family: Purisa, cursive;
