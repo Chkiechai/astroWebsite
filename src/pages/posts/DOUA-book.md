@@ -7,6 +7,9 @@ Food: false
 BookPost : false
 Study : false
 Lifestyle : false
+Home: false
+Money: false
+SelfCare: false
 pubDate: 2025-10-06
 description: 'A book about disaster, disease, and the power of human empathy'
 author: 'Briana Lee'

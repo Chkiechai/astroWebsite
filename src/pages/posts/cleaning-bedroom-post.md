@@ -7,6 +7,9 @@ Food: false
 BookPost : false
 Study : false
 Lifestyle : true
+Home: true
+Money: false
+SelfCare: false
 pubDate: 2026-03-16
 description: 'It is pretty simple, but it is not necessarily intuitive'
 author: 'Briana Lee'

@@ -7,6 +7,9 @@ Food: false
 BookPost : true
 Study : false
 Lifestyle : false
+Home: false
+Money: false
+SelfCare: false
 pubDate: 2025-10-17
 description: 'The tireless hours put into this book, and why I started writing it in the first place.'
 author: 'Briana Lee'

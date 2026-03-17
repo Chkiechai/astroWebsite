@@ -6,6 +6,9 @@ Food: false
 BookPost : false
 Study : false
 Lifestyle : false
+Home: false
+Money: false
+SelfCare: false
 pubDate: 2025-10-17
 description: 'The desiging process and steps for how I created a camera mount for our microscope'
 author: 'Briana Lee'

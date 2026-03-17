@@ -7,6 +7,9 @@ Food: false
 BookPost : false
 Study : false
 Lifestyle : true
+Home: true
+Money: false
+SelfCare: false
 pubDate: 2026-03-17
 description: 'Keep it spotless every day'
 author: 'Briana Lee'

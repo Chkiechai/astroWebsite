@@ -7,6 +7,9 @@ Food: false
 BookPost : false
 Study : true
 Lifestyle : false
+Home: false
+Money: false
+SelfCare: false
 pubDate: 2026-03-13
 description: 'Ever find yourself struggling to find the motivation to study? Me too!'
 author: 'Briana Lee'

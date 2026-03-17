@@ -29,10 +29,23 @@ const pageTitle = "Blog";
 		</ul>
 
 <h2 class="blogHeader">Lifestyle</h2>
-  		<ul>	
-		  {allPosts
-		  .filter((post:any)=>post.frontmatter.Lifestyle)
-		  .map((post: any) => <BlogPost url={post.url} title={post.frontmatter.title} />)}
-		</ul>
+  		<h3 class ="blogHeader">Home</h3>
+			<ul>	
+			  {allPosts
+			  .filter((post:any)=>post.frontmatter.Lifestyle && post.frontmatter.Home)
+			  .map((post: any) => <BlogPost url={post.url} title={post.frontmatter.title} />)}
+			</ul>
+		<h3 class ="blogHeader">Self Care</h3>
+			<ul>	
+			  {allPosts
+			  .filter((post:any)=>post.frontmatter.Lifestyle && post.frontmatter.SelfCare)
+			  .map((post: any) => <BlogPost url={post.url} title={post.frontmatter.title} />)}
+			</ul>
+		<h3 class ="blogHeader">Money Stuff</h3>
+			<ul>	
+			  {allPosts
+			  .filter((post:any)=>post.frontmatter.Lifestyle && post.frontmatter.Money)
+			  .map((post: any) => <BlogPost url={post.url} title={post.frontmatter.title} />)}
+			</ul>
 		
 </BaseLayout>

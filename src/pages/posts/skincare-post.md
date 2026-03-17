@@ -7,6 +7,9 @@ Food: false
 BookPost : false
 Study : false
 Lifestyle : true
+Home: false
+Money: false
+SelfCare: true
 pubDate: 2026-03-16
 description: 'debunking some serious myths'
 author: 'Briana Lee'
