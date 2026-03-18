@@ -34,7 +34,7 @@ This is my favorite drink to make in the evenings when I'm ready for some relaxa
 
 # Directions
 
-1. Steep *lavender buds* in the *water* for 1-2 minutes.
+1. Steep *lavender buds* in the *water* for 1-2 minutes. (Use tea filter if the buds are loose)
 2. Remove the *lavender buds* and steep *chamomile* for 1-3 minutes. (If using plain chamomile flowers and not a pouch, use a tea filter)
 3. Remove the *chamomile flowers* and add *vanilla, honey,* and *half n half*.
 4. Stir and enjoy!!
