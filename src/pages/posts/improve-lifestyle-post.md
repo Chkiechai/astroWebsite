@@ -8,8 +8,8 @@ BookPost : false
 Study : false
 Lifestyle : true
 Home: false
-Money: false
-SelfCare: true
+Money: true
+SelfCare: false
 pubDate: 2026-03-15
 description: 'Hey, college and highschool people!! Looking at you!'
 author: 'Briana Lee'
