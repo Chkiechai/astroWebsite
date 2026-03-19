@@ -75,4 +75,4 @@ So, the fun thing about buying products is it's really hard to tell which produc
 
 # Closing
 
-So, there you go! A simple skincare routine is always better for maintaining your skin's natural glow and health. I hope this article was helpful!
+So, there you go! A simple skincare routine is always better for maintaining your skin's natural glow and health. I hope this article was helpful, and I encourage you to always do your own research!
