@@ -39,9 +39,12 @@ A good example of this is Niacinamide, which is, incidentally, my second 'tip.'
 Also, I know it's not like this for everyone, but I myself am *very* allergic to Niacinamide. When I use products containing it, I break out in itchy, red hives that take a long time to fade. So, if you *do* use Niacinamide products, spot test first, and be careful.
 
 **Myth 3**: *You need a lot of different types of moisturizer for your face and skin, or it will become unhealthy.*
-  - No. No, you definitely do not. Again, your skin is *pretty good* at taking care of itself, so slathering a hundred different creams onto it is more likely to inflame it than make it smoother. Plus, it'll make it feel more greasy and maybe even unclean, trust me.
+- No. No, you definitely do not. Again, your skin is *pretty good* at taking care of itself, so slathering a hundred different creams onto it is more likely to inflame it than make it smoother. Plus, it'll make it feel more greasy and maybe even unclean, trust me.
 
-These are three common myths that I see everywhere. Again, I won't be going over all skincare myths in this article, so I encourage you to do a lot of research when considering trying something new. Now, let's move on to the actual skincare routine (hint: it's pretty simple!).
+**Myth 4**: *Lemon and baking soda help to unclog pores and remove blackheads.*
+- No. No, no, absolutely not. I cannot stress this one enough! Baking soda is *too alkaline,* meaning that it will destroy your skin's natural barriers, and then the lemon added to that is *too acidic*, which will cause dryness, irritation, and sun sensitivity. Please do not use this method, no matter what is online. **It is a lie.**
+
+These are four common myths that I see everywhere. Again, I won't be going over all skincare myths in this article, so I encourage you to do a lot of research when considering trying something new. Now, let's move on to the actual skincare routine (hint: it's pretty simple!).
 
 # A Simple, Effective Routine
 
@@ -60,7 +63,7 @@ This is where most of my skincare routine comes in, because it's the time when I
 2. *Moisturizer*:
    - I use a simple, cheap lotion made for sensitive skin, and I only use a small amount of it--enough to cover my face but not enough to feel thick and greasy
 
-And that's it! If I am in the middle of a breakout, I might use a pimple patch or two (put those on before lotion), but other than that, I don't do much fancy stuff. With that done, let's move on to the products that I have acd use.
+And that's it! If I am in the middle of a breakout, I might use a pimple patch or two (put those on before lotion), but other than that, I don't do much fancy stuff. With that done, let's move on to the products that I have and use.
 
 # Products
 
