@@ -53,7 +53,7 @@ With that said, let's move on to the next food topic--the dreaded vegetables.
 
 Dark greens, such as kale, spinach, and cruciferous veggies like broccoli, are rich with nutrients, like vitamin K, lutein, and a bunch of other names that would make this article much harder to read quickly, so I'll skip over them for now--but I definitely recommend you research them!
 
-Now, I'm not saying you have to eat salads all the time--and definitely don't eat straight lettuce, because that frankly won't taste very good. Try different methods of cooking your vegetables! Saute the kale in butter, or make spinach omelettes! You could even try roasting some veggies with oil and herbs! Anything to make the vegetables more appealing to yourself.
+Now, I'm not saying you have to eat salads all the time--and definitely don't eat straight lettuce, because that frankly won't taste very good. Try different methods of cooking your vegetables! Sauté the kale in butter, or make spinach omelettes! You could even try roasting some veggies with oil and herbs! Anything to make the vegetables more appealing to yourself.
 
 Now that we've gotten veggies out of the way, let's move on to snacks.
 
@@ -67,7 +67,7 @@ And now, without further ado, let's move on to the next section!
 
 ## Sweets & Caffeine
 
-Now, I don't know about you, dear reader, but I have a serious addiction to coffee and chocolate, and I'm not giving that up! I do try to moderate it, though. See the thing is, even though chocolate and other candies are heavily processed, there are types of sweets that are somewhat healthier than others--dark chocolate is one of them! Good dark chocolate is actually rich in something called flavonoids, which can help to improve bloodflow to the brain and speed up thinking! 
+Now, I don't know about you, dear reader, but I have a serious addiction to coffee and chocolate, and I'm not giving that up! I do try to moderate it, though. See the thing is, even though chocolate and other candies are heavily processed, there are types of sweets that are somewhat healthier than others--dark chocolate is one of them! Good dark chocolate is actually rich in something called flavonoids, which can help to improve blood flow to the brain and speed up thinking! 
 
 So, here's my final take on sugary things--as long as you eat your sugar in moderation, you likely won't feel any adverse effects.
 
