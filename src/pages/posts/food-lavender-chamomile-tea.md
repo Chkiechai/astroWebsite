@@ -5,6 +5,7 @@ schoolRelated: false
 Book: false
 Food: true
 BookPost : false
+Stem: false
 Study : false
 Lifestyle : false
 Home: false

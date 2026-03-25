@@ -47,5 +47,11 @@ const pageTitle = "Blog";
 			  .filter((post:any)=>post.frontmatter.Lifestyle && post.frontmatter.Money)
 			  .map((post: any) => <BlogPost url={post.url} title={post.frontmatter.title} />)}
 			</ul>
-		
+
+	<h2 class="blogHeader">S.T.E.M.</h2>
+  		<ul>
+		  {allPosts
+		  .filter((post:any)=>post.frontmatter.Stem)
+		  .map((post: any) => <BlogPost url={post.url} title={post.frontmatter.title} />)}
+		</ul>
 </BaseLayout>

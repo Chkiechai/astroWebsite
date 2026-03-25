@@ -3,6 +3,7 @@ layout: ../../layouts/SchoolBlogLayout.astro
 title: 'On Cleaning Your Living Room'
 schoolRelated: false
 Book: false
+Stem: false
 Food: false
 BookPost : false
 Study : false

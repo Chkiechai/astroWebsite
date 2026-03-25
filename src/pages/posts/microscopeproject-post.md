@@ -2,6 +2,7 @@
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Microscope Camera Mount'
 schoolRelated: true
+Stem: true
 Food: false
 BookPost : false
 Study : false

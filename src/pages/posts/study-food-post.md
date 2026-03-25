@@ -4,6 +4,7 @@ title: 'The Best Foods For Studying'
 schoolRelated: true
 Book: false
 Food: true
+Stem: false
 BookPost : false
 Study : false
 Lifestyle : false

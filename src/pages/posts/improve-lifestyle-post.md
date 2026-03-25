@@ -3,6 +3,7 @@ layout: ../../layouts/SchoolBlogLayout.astro
 title: 'Improve Your Lifestyle On A Budget'
 schoolRelated: true
 Book: false
+Stem: false
 Food: false
 BookPost : false
 Study : false

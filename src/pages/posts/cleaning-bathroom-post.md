@@ -4,6 +4,7 @@ title: 'How To Properly Clean Your Bathroom'
 schoolRelated: false
 Book: false
 Food: false
+Stem: false
 BookPost : false
 Study : false
 Lifestyle : true

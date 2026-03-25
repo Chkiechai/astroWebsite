@@ -3,6 +3,7 @@ layout: ../../layouts/SchoolBlogLayout.astro
 title: 'The Secret To Window Shopping'
 schoolRelated: false
 Book: false
+Stem: false
 Food: false
 BookPost : false
 Study : false

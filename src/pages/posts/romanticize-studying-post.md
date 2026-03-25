@@ -4,6 +4,7 @@ title: 'How To Study Better'
 schoolRelated: true
 Book: false
 Food: false
+Stem: false
 BookPost : false
 Study : true
 Lifestyle : false

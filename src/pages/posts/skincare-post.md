@@ -7,6 +7,7 @@ Food: false
 BookPost : false
 Study : false
 Lifestyle : true
+Stem: false
 Home: false
 Money: false
 SelfCare: true
