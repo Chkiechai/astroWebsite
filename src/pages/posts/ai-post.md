@@ -15,13 +15,15 @@ pubDate: 2026-10-19
 description: 'A despressingly necessary take on the present day'
 author: 'Briana Lee'
 image:
-    url: '/assets/bathroom-cleaning-img.webp'
+    url: '/assets/ai-post-cover.webp'
     alt: 'Two teens, standing with their backs against two llm symbols, texting each other using AI.'
 tags: ["blogging", "painful", "life", "important", "harsh news"]
 ---
 
 *Just to preface this, I do not hate AI. I think it is incredibly useful, when used correctly. But the current trajectory that we are on in terms of **how** we use AI is concerning to say the least. I myself use AI when appropriate, such as when I need to search for something oddly specific. So, please don't take this article as an anti-AI trash opinion. This is the opinion of someone who is halfways against AI, but not for the usual reasons.*
 
+
+## An Opinion On Empathy and AI
 
 *What happens to humanity when AI is able to do everything that we used to do for each other?* Wouldn't that make it so that showing love and affection towards each other is useless? What happens when one person sends an AI-generated love letter to their significant other, but that special someone uses an AI to read it and then generates a reply? Is that really love?
 
